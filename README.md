@@ -41,4 +41,5 @@ The modeling processes on the dataset was properly done to gather and make purpo
 - https://github.com/sodera31/WORLD_MALARIA_ANALYSIS/blob/main/Screenshot%20MAL1.png
 - https://github.com/sodera31/WORLD_MALARIA_ANALYSIS/blob/main/Screenshot%20MAL2.png
 - https://github.com/sodera31/WORLD_MALARIA_ANALYSIS/blob/main/Screenshot%20MAL3.png
+- https://github.com/sodera31/WORLD_MALARIA_ANALYSIS/blob/main/Screenshot%20MAL5.png
   
