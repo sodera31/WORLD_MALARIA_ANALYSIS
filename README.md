@@ -6,7 +6,11 @@ This is a personal Analysis on world Malaria Analysis to ascertain the prevalenc
 
 [Data Sources](#Data-Sources)
 
-[DATA CLEANING AND PREPARATION](DATA-CLEANING-AND-PREPARATION)
+[DATA CLEANING AND PREPARATION](#Data-cleaning-and-preparation)
+
+[TOOLS USED FOR HE STUDY](#Tools-used-for-the-study)
+
+[PHOTOGRAPHIC REPRESENTATION OF THE DATASET](#Photographic-reprsentation-of-the-dataset)
 
 
 ## PROJECT OVERVIEW
