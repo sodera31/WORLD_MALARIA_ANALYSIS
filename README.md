@@ -7,3 +7,7 @@ In the world we live today, Malaria had persisted for decades causing a greater 
 ## DATA SOURCES
 - Kaggle [Download Here](https://www.kaggle.com)
 - Chrome [Download Here](https://www.google.org)
+
+## DATA CLEANING AND PREPARATION
+The modeling processes on the dataset was properly done to gather and make purposeful data that can be read and understood properly using;
+- Microsoft Excel
